@@ -1,3 +1,22 @@
+# Weather App
+
+A React weather app that shows the current weather, a 12-hour forecast, and a 7-day forecast for Seoul. It uses the Open-Meteo API, which does not need an API key.
+
+## Run
+
+Requires Node.js
+
+```
+npm install
+npm start
+```
+
+Then open http://localhost:3000
+
+
+
+
+
 # 날씨 앱
 
 Open-Meteo API를 사용하여 서울의 현재 날씨, 12시간 예보 및 7일 예보를 표시하는 React.js 날씨 애플리케이션입니다.
